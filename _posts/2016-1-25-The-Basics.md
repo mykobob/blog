@@ -12,7 +12,7 @@ This week was a shortened week. As a result, we hit the ground running on the fi
 
 ## Identifying and Tackling Issues
 
-One issue I encountered was that though I was paying attention to what the professor was lecturing about on Wednesday, I wasn't able to fully absorb everything that he said. First, I will review the Google Doc that the professor linked on this homepage. In addition, I will also take notes on the material not covered in the Google Doc. As for the project, I need to begin understanding what each requirement entails and how the software we're required to install will relate to it. 
+One issue I encountered was that though I was paying attention to what the professor was lecturing about on Wednesday, I wasn't able to fully absorb everything that he said. To address this, I will first review the Google Doc that the professor linked on this homepage. In addition, I will also take notes on the material not covered in the Google Doc. As for the project, I need to begin understanding what each requirement entails and how the software we're required to install will relate to it. 
 
 ## Future Work this week
 
