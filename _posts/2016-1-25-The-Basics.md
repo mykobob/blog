@@ -20,4 +20,4 @@ For the next week, I plan on quickly grasping the first project concretely and b
 
 ## Recent Discovery
 
-Because Jekyll is a simple static webpage solution, I was interested about other ways to show a dynamic webpage. I encountered a well known infrastructure called [Ruby on Rails](https://www.railstutorial.org/book) and the tutorial so far has been great!
+Because Jekyll is a simple static webpage solution, I was interested about other ways to show a dynamic webpage. I encountered a well known infrastructure called [Ruby on Rails](https://www.railstutorial.org/book), and the tutorial so far has been great!
