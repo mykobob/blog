@@ -4,7 +4,7 @@ title: Adapting
 permalink: /week2
 ---
 
-# Week 1: 1/19-1/22
+# Week 2: 1/25 - 1/29
 
 ## What did I do this week?
 
