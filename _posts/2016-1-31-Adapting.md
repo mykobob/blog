@@ -12,7 +12,7 @@ This week was settling in on the classes I have confirmed planned on taking. OOP
 
 ## What's in my way?
 
-Just like last week, my quiz scores were dismal. I didn't do as well as I had hoped from last week. I studied for the quiz as I had planned to last week, but unlucky for me, I forgot that there was a reading we had to do. As a result, I missed most of the the quiz questions that were over the reading. This will be added to my studying for the quizzes. Though it is good to quiz on the material, I just really hope the future quizzes will be more focused on the material taught in class. I feel like that would be more useful to know instead of the history of OOP. 
+Just like last week, my quiz scores were dismal. I didn't do as well as I had hoped from last week. I studied for the quiz as I had planned to last week, but unlucky for me, I forgot that there was a reading we had to do. As a result, I missed most of the the quiz questions that were over the reading. This will be added to my studying for the quizzes. Though the readings have good quiz material, I just really hope the future quizzes will be more focused on the material taught in class. I feel like that would be more useful to know instead of, say, the history of OOP. 
 
 ## What will I do next week?
 
