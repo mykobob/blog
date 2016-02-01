@@ -8,7 +8,7 @@ permalink: /week2
 
 ## What did I do this week?
 
-We continued discussion about Collatz. How do we make our naive solution even faster? What are the key insights for making our solution faster? We discussed these methods and settled upon caching results that we have computed. I liked how Professor Downing discussed/led us in a discussion that involved us to figure out this optimization. Once this idea of caching was established and because the idea of caching is very broad, we delved into the different types of caching, such as eager, lazy, and meta caching. The first two were very intuitive to me, but when we talked about meta caching, I was taken aback. The thought of precomputing values and pasting them in my program was surprising to me. But as we discussed in detail what this entails and how we have to conform with the restrictions, the discussion we had increased. We were soon discussing different workarounds for the memory constraints. 
+This week was settling in on the classes I have confirmed planned on taking. OOP was no exception. We continued our discussion about Collatz, but the main point was on optimizing our naive solution. I liked how Downing approached possible optimizations. He gave us the gneral idea of caching previous solutions and proceeded to discussing how various ways of utilizing this method. During this time, Downing was actively engaging with the students so that we were all on the same page. Not to regurgitate the lesson, but I was really intruiged with the idea of a meta-cache (precomputing the values and copy-pasting them in my source code). It was a really neat idea that sacrificed space for saved computation time. If these values are for sure going to be constant, this is a viable solution for future optimizations for my code.
 
 ## What's in my way?
 
@@ -20,4 +20,5 @@ For this next week, I will be finishing up my Collatz project. I am currently ru
 
 ## Recent Discovery
 
-[To be added]
+For my side project, I found it really useful to plan every subpart of the project on paper. This way, I was able to clearly see how each component interacted with each other. This included writing the database table diagrams (with foreign keys and everything) to drawing what data structures would be tossed in between the front-end and back-ends. This gave me more confidence that my design was sound.
+
