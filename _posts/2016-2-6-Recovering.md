@@ -4,7 +4,7 @@ title: Recovering
 permalink: /week3
 ---
 
-# Week 2: 2/1 - 2/5
+# Week 3: 2/1 - 2/5
 
 ## What did I do this week?
 
