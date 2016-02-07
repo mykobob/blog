@@ -20,4 +20,4 @@ For this next week, I will start working on the next project. Communicate with m
 
 ## Recent Discovery
 
-[https://github.com/excilys/androidannotations/wiki](Android Annotations) are super cool - even to a point where I would say it's pretty much hacking. Basically, in Android Development, there is a lot of code that has very similar structure for basically all views. Annotations noticies this and simplifies that process by just having an annotation to denote that bulky piece of code. 
+[Android Annotations](https://github.com/excilys/androidannotations/wiki) are super cool - even to a point where I would say it's pretty much hacking. Basically, in Android Development, there is a lot of code that has very similar structure for basically all views. Annotations noticies this and simplifies that process by just having an annotation to denote that bulky piece of code. 
