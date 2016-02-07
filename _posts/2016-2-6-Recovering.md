@@ -12,7 +12,7 @@ This week was all ups and downs. I started off the week with FoCS dinner night. 
 
 ## What's in my way?
 
-Collatz and the changing of the project specs was in my way, but that is over with. In continuation of my struggles with the quizzes, I once again haven't been performing well on them. Though my scores haven't improved, my confidence going into the quizzes have been a lot higher than before. This is mainly because I have been doing my readings. 
+Collatz and the changing of the project specs were in my way, but that is over with. In continuation of my struggles with the quizzes, I once again haven't been performing well on them. Though my scores haven't improved, my confidence going into the quizzes have been a lot higher than before. This is mainly because I have been doing my readings. 
 
 ## What will I do next week?
 
