@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recoering 
+title: Recovering 
 permalink: /week3
 ---
 
@@ -12,13 +12,12 @@ This week was all ups and downs. I started off the week with FoCS dinner night. 
 
 ## What's in my way?
 
-Just like last week, my quiz scores were dismal. I didn't do as well as I had hoped from last week. I studied for the quiz as I had planned to last week, but unlucky for me, I forgot that there was a reading we had to do. As a result, I missed most of the the quiz questions that were over the reading. This will be added to my studying for the quizzes. Though the readings have good quiz material, I just really hope the future quizzes will be more focused on the material taught in class. I feel like that would be more useful to know instead of, say, the history of OOP. 
+Collatz and the changing of the project specs was in my way, but that is over with. In continuation of my struggles with the quizzes, I once again haven't been performing well on them. Though my scores haven't improved, my confidence going into the quizzes have been a lot higher than before. This is mainly because I have been doing my readings. 
 
 ## What will I do next week?
 
-For this next week, I will be finishing up my Collatz project. I am currently running into issues regarding memory usage, so I'll have to come up with a more clever method of caching. In addition, I have been losing track of my issues. I would fix one issue but also fix another issue without committing. Because of this, I am reverting a bit of my code so that each commit will fix a particular issue. So for the rest of this project and the following projects, I am resolved to pay attention to the issues I assigned. This way, each commit will be short and isolated - as what was taught in class. 
+For this next week, I will start working on the next project. Communicate with my partner the restrictions, bounds and basically everthing there is to discuss about for the project. The goal here is to have everything planned before actually writing code. This allows us to see any potential flaws in our design before we encounter the bug while coding. 
 
 ## Recent Discovery
 
-For my side project, I found it really useful to plan every subpart of the project on paper. This way, I was able to clearly see how each component interacted with each other. This included writing the database table diagrams (with foreign keys and everything) to drawing what data structures would be tossed in between the front-end and back-ends. This gave me more confidence that my design was sound.
-
+[https://github.com/excilys/androidannotations/wiki](Android Annotations) are super cool - even to a point where I would say it's pretty much hacking. Basically, in Android Development, there is a lot of code that has very similar structure for basically all views. Annotations noticies this and simplifies that process by just having an annotation to denote that bulky piece of code. 
