@@ -12,7 +12,7 @@ permalink: /week4
 
 ## What's in my way?
 
-I started the week with a good score on my quiz - for the first time since the start of school.
+Two of the three quizzes I took this week were perfect - a spectacular feat. This is mainly because I actually read the required readings for this week.
 
 ## What will I do next week?
 
