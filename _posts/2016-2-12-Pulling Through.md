@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recovering 
+title: Pulling Through 
 permalink: /week4
 ---
 
