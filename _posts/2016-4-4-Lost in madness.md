@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Challenges
+title: Lost in madness
 permalink: /week11
 ---
 
