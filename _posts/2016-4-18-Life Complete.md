@@ -18,6 +18,10 @@ Nothing much. Only the final OOP test is looming.
 
 I will begin studying for the final test. It's a big portion of my grade, so I don't want to mess that up. 
 
+## Thoughts
+
+This week we really discussed OO design. I really enjoyed the lectures as they were conceptually stimulating. A lot of the discussion was more of "why" instead of "how." Explaining why a certain design is preferable to another is something that has to make sense and must be convincing for the other person. The reasons talked about in class were convincing and useful for convincing not only others but also myself that the design was sound.
+
 ## Recent Discovery
 
 In light of the recent breakthroughs of Convolutional Neural Networks, this [paper](http://arxiv.org/pdf/1412.1897v4.pdf) highlights some disadvantages of these CNNs and how they can be TOO good at locating features that aren't actually there. 
