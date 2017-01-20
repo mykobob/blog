@@ -21,4 +21,3 @@ For this next week, I will be finishing up my Collatz project. I am currently ru
 ## Recent Discovery
 
 For my side project, I found it really useful to plan every subpart of the project on paper. This way, I was able to clearly see how each component interacted with each other. This included writing the database table diagrams (with foreign keys and everything) to drawing what data structures would be tossed in between the front-end and back-ends. This gave me more confidence that my design was sound.
-
