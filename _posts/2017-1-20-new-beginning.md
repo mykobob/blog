@@ -16,9 +16,13 @@ This week starts the new semester. I have many aspirations for myself, and I thi
     This is something my parents have tried drilling into me. I'd say their efforts aren't in vain. I'm trying to cultivate a desire to actively seek out time to read books. Hopefully this ideal won't be a stretch.
     
     *Book List*
+    
     1. Complete Volume of Sherlock Holmes by Sir Arthur Conan Doyle
+    
     2. Holiness of God by RC Sproul
+    
     3. The Road to Character by David Brooks
+    
     4. Letters from a Skeptic by Gregory Boyd
     
 3. **Manage my time better**
