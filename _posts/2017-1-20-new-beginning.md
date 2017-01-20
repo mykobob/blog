@@ -31,3 +31,4 @@ This week starts the new semester. I have many aspirations for myself, and I thi
   I am a broken person, and anyone who interacts with me knows that. Whether it is my lack of empathy or lack of action, it pains me to reflect in retrospect on the situation I was in. 
   
 I'm sure there are many other goals I have for myself this semester, but to keep it short, I got to cut it here. 
+
