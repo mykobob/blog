@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Michael Li, and welcome to my blog. My objective is to provide a method of sharing my knowledge with the world. I want to use this blog to share my adventures in CS and Christ.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+* [Personal website](www.limichael.com)
 
-### Contact me
+* [Github](www.github.com/mykobob)
 
-[email@domain.com](mailto:email@domain.com)
+* [Codeforces](http://codeforces.com/profile/mykobob)
+
+* [Linkedin](linkedin.com/in/michaelli1)
