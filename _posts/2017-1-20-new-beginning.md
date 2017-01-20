@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New beginning
-permalink: /new-beginning
 ---
 
 # A new year = new (and old!) resolutions
