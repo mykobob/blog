@@ -29,7 +29,7 @@ This week starts the new semester. I have many aspirations for myself, and I thi
 
   This is always on my list of things to improve on. I find it easy for me to waste time scrolling through Facebook or finding myself 4 hours older but no wiser without any reasonable reason. This semester will be tough for me as I will be trying to do research, continue serving at Koinonia, and participate in more IM sports (the list goes on and on).
     
-4. **Improve my people skills**
+5. **Improve my people skills**
 
   I am a broken person, and anyone who interacts with me knows that. Whether it is my lack of empathy or lack of action, it pains me to reflect in retrospect on the situation I was in. 
   
