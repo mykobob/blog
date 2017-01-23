@@ -77,3 +77,5 @@ exclude:
     - CNAME
 
 theme: jekyll-theme-slate
+
+url: blog.limichael.com
