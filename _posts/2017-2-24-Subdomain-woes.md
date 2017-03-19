@@ -7,7 +7,7 @@ The sad adventures of me learning about how subdomains actually work.
 
 ## Background
 
-My website is actually hosted on a [heroku](www.heroku.com) with a CNAME with Google Domains. I am CNAME'ing this blog to a subdomain of my main website. To make things a bit harder for my unexperienced me, all of the tutorials that I found online were not tailored for a person in my situation, so I frequently gave up on trying to fix my issues.
+My website is actually hosted on a [heroku](www.heroku.com) with a CNAME with Google Domains. I am CNAME'ing this blog to a subdomain of my main website. To make things a bit harder for unexperienced me, all of the tutorials that I found online were not tailored for a person in my situation, so I frequently gave up on trying to fix my issues.
 
 ## Problem + Solution
 
