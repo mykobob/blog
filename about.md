@@ -8,7 +8,7 @@ Hi! I am Michael Li, and welcome to my blog. My objective is to provide a method
 
 ### More Information
 
-* [Personal website](www.limichael.com)
+* [Personal website](http://www.limichael.com)
 
 * [Github](www.github.com/mykobob)
 
